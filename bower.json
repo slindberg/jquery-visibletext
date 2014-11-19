@@ -1,6 +1,6 @@
 {
   "name": "jquery-visibletext",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/slindberg/jquery-visibletext",
   "description": "jQuery plugin for determining all visible text within an element",
   "main": "jquery.visibletext.js",
